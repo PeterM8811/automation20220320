@@ -1,0 +1,6 @@
+total 0
+-rw-r--r-- 1 Piotr 197121 0 Mar 20 09:58 b.txt
+-rw-r--r-- 1 Piotr 197121 0 Mar 20 09:11 index.html
+-rw-r--r-- 1 Piotr 197121 0 Mar 20 09:11 main.js
+-rw-r--r-- 1 Piotr 197121 0 Mar 20 09:11 style.css
+ostatnia linijka
