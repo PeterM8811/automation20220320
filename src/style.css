@@ -1,0 +1,14 @@
+.post-title {
+    color: cadetblue;
+  }
+  
+  .post-title:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  #blog {
+    display: flex;
+  }
+  
+  
